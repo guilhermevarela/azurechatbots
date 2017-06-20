@@ -1,0 +1,16 @@
+{
+  "name": "weathergirl",
+  "version": "1.0.0",
+  "description": "Hello world robot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guilherme Varela",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.8.4",
+    "dotenv": "^4.0.0",
+    "restify": "^4.3.0"
+  }
+}
